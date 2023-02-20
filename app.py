@@ -4,8 +4,7 @@ Created on Sat Feb  4 10:47:30 2023
 
 @author: Anil Kumar
 """
-
-
+pip install matplotlib
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
